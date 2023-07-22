@@ -1,4 +1,4 @@
-#Web Scraping Program in Python
+Web Scraping Program in Python
 Zadanie rekrutacyjne
 
 Napisane w PyCharm - python3
