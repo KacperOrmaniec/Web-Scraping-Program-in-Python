@@ -1,4 +1,4 @@
-# scraping_dojo_07_2023
+#Web Scraping Program in Python
 Zadanie rekrutacyjne
 
 Napisane w PyCharm - python3
